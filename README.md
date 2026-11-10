@@ -8,7 +8,6 @@ This project includes a graphical patcher that allows players to disable head bo
 
 - A legitimate installation of **Outlast (2013)** from Steam. This project is an unofficial fan-made modification and does not include or distribute any game files.
 - Windows 10/11.
-- Python 3.8 or higher with tkinter (the official python.org installer already includes it).
 
 ## How to install
 
